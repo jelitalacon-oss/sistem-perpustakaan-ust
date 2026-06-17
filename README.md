@@ -1,4 +1,4 @@
-# 📚 Sistem Peminjaman Buku Perpustakaan
+#  Sistem Peminjaman Buku Perpustakaan
 
 Aplikasi web dinamis berbasis CRUD untuk pengelolaan perpustakaan.  
 **Tugas Pemrograman Web — Fakultas Teknik, Universitas Sarjanawiyata Tamansiswa**
@@ -104,7 +104,7 @@ http://localhost/perpustakaan/
 
 ---
 
-## 👨‍💻 Cara Berkontribusi (Git Workflow)
+##  Cara Berkontribusi (Git Workflow)
 
 ```bash
 # Setiap anggota kerja di branch masing-masing
