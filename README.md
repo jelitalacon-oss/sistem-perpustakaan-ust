@@ -5,7 +5,7 @@ Aplikasi web dinamis berbasis CRUD untuk pengelolaan perpustakaan.
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi | Keterangan |
 |-----------|------------|
@@ -18,7 +18,7 @@ Aplikasi web dinamis berbasis CRUD untuk pengelolaan perpustakaan.
 
 ---
 
-## 👥 Pembagian Tugas Kelompok
+##  Pembagian Tugas Kelompok
 
 | Anggota | Peran | File yang Dikerjakan |
 |---------|-------|----------------------|
@@ -29,7 +29,7 @@ Aplikasi web dinamis berbasis CRUD untuk pengelolaan perpustakaan.
 
 ---
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 ```
 perpustakaan/
@@ -62,7 +62,7 @@ perpustakaan/
 
 ---
 
-## ⚙️ Cara Instalasi
+##  Cara Instalasi
 
 ### Prasyarat
 - XAMPP (PHP 7.4+ dan MySQL)
@@ -92,7 +92,7 @@ http://localhost/perpustakaan/
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 - **Dashboard** — statistik ringkasan (total buku, anggota, peminjaman aktif, terlambat)
 - **Manajemen Buku** — CRUD lengkap dengan pencarian real-time
